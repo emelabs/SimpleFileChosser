@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FileChooser</string>
+    <string name="action_settings">Configuraciones</string>
+
+    <string name="action_open">Abrir</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="action_close">Cerrar</string>
+    
+    <string name="choosedir_title">Seleccione un archivo</string>
+    
+    <string name="confirmation_title">Confirmación</string>
+    <string name="confirmation_message">¿Está seguro que desear seleccionar el archivo {FILE}?</string>
+    
+    <string name="explore">Explorar</string>
+    
+    <string name="selected_file_message">Usted ha seleccionado </string>
+</resources>

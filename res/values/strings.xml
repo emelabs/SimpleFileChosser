@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FileChooser</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="action_open">Open</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_close">Close</string>
+    <string name="action_back">Back</string>
+    
+    <string name="choosedir_title">Select a file</string>
+    
+    <string name="confirmation_title">Confirmation</string>
+    <string name="confirmation_message">are you sure that do you want to select {FILE}?</string>
+    
+    <string name="explore">Explore</string>
+    
+    <string name="selected_file_message">You have selected </string>
+</resources>
